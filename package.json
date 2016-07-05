@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "start": "live-server | json-server db.json"
+    "start": "live-server --ignorePattern=.*json | json-server db.json"
   },
   "repository": {
     "type": "git",
