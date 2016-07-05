@@ -1,0 +1,22 @@
+{
+  "name": "shiny-parakeet",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "live-server | json-server db.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vasileorza/shiny-parakeet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vasileorza/shiny-parakeet/issues"
+  },
+  "homepage": "https://github.com/vasileorza/shiny-parakeet#readme",
+  "dependencies": {
+    "json-server": "^0.8.15",
+    "live-server": "^1.0.0"
+  }
+}
